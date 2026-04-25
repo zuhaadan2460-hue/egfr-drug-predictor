@@ -163,6 +163,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align:center; color:#90A4AE; font-size:12px;'>
     FYP Project — Machine Learning-Based Prediction of EGFR Inhibitors for Lung Cancer Treatment<br>
-    University of Agriculture Faisalabad | Department of Computer Science | 2025
+    University of Agriculture Faisalabad | Department of Computer Science | 
 </div>
 """, unsafe_allow_html=True)
